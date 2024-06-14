@@ -26,8 +26,6 @@ Está é a resolução da Quest HTML + CSS Avançado proposto pelo Curso Dev Que
 
 ![image](https://github.com/rosanapedra/projeto-huddle-base/assets/165735049/6314eaca-0b8b-4043-b696-8af41cd1b11d)
 
-[Um GIF do Projeto](https://github.com/rosanapedra/projeto-huddle-base/assets/165735049/93b146c4-c3b9-4e95-958e-78982134e4d2)
-
 ### Links
 
 - Link do repositório: [Huddle](https://github.com/rosanapedra/projeto-huddle-base.git)
