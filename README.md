@@ -24,7 +24,7 @@ Está é a resolução da Quest HTML + CSS Avançado proposto pelo Curso Dev Que
 
 ### Captura de tela
 
-[Gravando 2024-06-14 173013](https://github.com/rosanapedra/projeto-huddle-base/assets/165735049/93b146c4-c3b9-4e95-958e-78982134e4d2)
+[Um GIF do Projeto](https://github.com/rosanapedra/projeto-huddle-base/assets/165735049/93b146c4-c3b9-4e95-958e-78982134e4d2)
 
 ### Links
 
