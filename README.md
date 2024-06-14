@@ -29,7 +29,7 @@ Está é a resolução da Quest HTML + CSS Avançado proposto pelo Curso Dev Que
 ### Links
 
 - Link do repositório: [Huddle](https://github.com/rosanapedra/projeto-huddle-base.git)
-- Deploy: [Front]()
+- Deploy: [Front](https://rosanapedra.github.io/projeto-huddle-base/)
 
 ## Meu processo
 
