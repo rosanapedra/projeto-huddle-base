@@ -1,0 +1,46 @@
+@media(max-width: 700px){
+    body {
+        background: url(../images/bg-mobile.svg) no-repeat var(--primary-violet);
+        background-size: contain;
+    }
+
+    .header .logo {
+        padding-left: 0px;
+    }
+
+    .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .conteudo-principal .imagem-principal {
+        padding-left: 0px;
+    }
+
+    .conteudo-principal .imagem-principal img {
+        width: 100%;
+    }
+
+    .conteudo-principal .info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .conteudo-principal .info h2 {
+        font-size: 25px;
+    }
+
+    .conteudo-principal .botao {
+        width: 230px;
+    }
+
+    .social {
+        justify-content: center;
+        align-items: center;
+        padding-right: 5px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
