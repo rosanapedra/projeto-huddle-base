@@ -4,7 +4,7 @@
         background-size: contain;
     }
 
-    .header .logo {
+    .logo {
         padding-left: 0px;
     }
 
@@ -28,7 +28,7 @@
         text-align: center;
     }
 
-    .conteudo-principal .info h2 {
+    .conteudo-principal .info h1 {
         font-size: 25px;
     }
 
