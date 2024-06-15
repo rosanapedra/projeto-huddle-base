@@ -2,11 +2,11 @@ body {
     background: url(../images/bg-desktop.svg) no-repeat var(--primary-violet);
 }
 
-.header .logo {
+.logo {
     margin: 30px;
 }
 
-.header .logo img {
+.logo img {
     width: 170px;
 }
 
@@ -33,7 +33,7 @@ body {
     gap: 25px;
 }
 
-.conteudo-principal .info h2 {
+.conteudo-principal .info h1 {
     font-weight: 600;
     font-size: 30px;
     word-wrap: break-word;
