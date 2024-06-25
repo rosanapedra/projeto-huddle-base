@@ -2,10 +2,11 @@
     body {
         background: url(../images/bg-mobile.svg) no-repeat var(--primary-violet);
         background-size: contain;
+        max-width: 100%;
     }
 
     .logo {
-        padding-left: 0px;
+        margin: 30px;
     }
 
     .conteudo-principal {
@@ -14,18 +15,16 @@
     }
 
     .conteudo-principal .imagem-principal {
-        padding-left: 0px;
+        padding-left: 35px;
     }
 
     .conteudo-principal .imagem-principal img {
-        width: 100%;
+        width: 90%;
     }
 
     .conteudo-principal .info {
-        display: flex;
-        justify-content: center;
-        align-items: center;
         text-align: center;
+        align-items: center;
     }
 
     .conteudo-principal .info h1 {
@@ -36,11 +35,11 @@
         width: 230px;
     }
 
-    .social {
+    .social ul {
         justify-content: center;
         align-items: center;
         padding-right: 5px;
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 30px;
+        margin-bottom: 40px;
     }
 }
